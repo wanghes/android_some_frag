@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/hello_world_layout"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:id="@+id/btn"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/btn_bg"
+        android:text="@string/btn"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:layout_below="@+id/btn"
+        android:textSize="16sp"
+        android:id="@+id/xbtn"
+        android:text="@string/xbtn"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/xbtn"
+        android:textSize="16sp"
+        android:id="@+id/btnJump"
+        android:text="@string/btnJump"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnJump"
+        android:textSize="16sp"
+        android:id="@+id/btnJump2"
+        android:text="@string/btnJump2"/>
+</androidx.appcompat.widget.LinearLayoutCompat>

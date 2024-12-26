@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/hs/.gradle/daemon/7.5/com.werot.helloworld.app-mergeDebugResources-32:/layout/fragment_three.xml",
+        "source": "/Users/hs/.gradle/daemon/7.5/com.werot.helloworld.app-main-35:/layout/fragment_three.xml"
+    },
+    {
+        "merged": "com.werot.helloworld.app-mergeDebugResources-32:/layout/item_footer.xml",
+        "source": "com.werot.helloworld.app-main-35:/layout/item_footer.xml"
+    },
+    {
+        "merged": "/Users/hs/.gradle/daemon/7.5/com.werot.helloworld.app-mergeDebugResources-32:/layout/activity_three.xml",
+        "source": "/Users/hs/.gradle/daemon/7.5/com.werot.helloworld.app-main-35:/layout/activity_three.xml"
+    },
+    {
+        "merged": "/Users/hs/.gradle/daemon/7.5/com.werot.helloworld.app-mergeDebugResources-32:/layout/content_second.xml",
+        "source": "/Users/hs/.gradle/daemon/7.5/com.werot.helloworld.app-main-35:/layout/content_second.xml"
+    },
+    {
+        "merged": "/Users/hs/.gradle/daemon/7.5/com.werot.helloworld.app-mergeDebugResources-32:/layout/item_view.xml",
+        "source": "/Users/hs/.gradle/daemon/7.5/com.werot.helloworld.app-main-35:/layout/item_view.xml"
+    },
+    {
+        "merged": "/Users/hs/.gradle/daemon/7.5/com.werot.helloworld.app-mergeDebugResources-32:/layout/activity_second.xml",
+        "source": "/Users/hs/.gradle/daemon/7.5/com.werot.helloworld.app-main-35:/layout/activity_second.xml"
+    },
+    {
+        "merged": "/Users/hs/.gradle/daemon/7.5/com.werot.helloworld.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "/Users/hs/.gradle/daemon/7.5/com.werot.helloworld.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/hs/.gradle/daemon/7.5/com.werot.helloworld.app-mergeDebugResources-32:/layout/fragment_second.xml",
+        "source": "/Users/hs/.gradle/daemon/7.5/com.werot.helloworld.app-main-35:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "/Users/hs/.gradle/daemon/7.5/com.werot.helloworld.app-mergeDebugResources-32:/layout/item_footer.xml",
+        "source": "/Users/hs/.gradle/daemon/7.5/com.werot.helloworld.app-main-35:/layout/item_footer.xml"
+    }
+]
